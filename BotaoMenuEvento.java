@@ -1,8 +1,0 @@
-package victor.campoMinado.logic;
-
-public enum BotaoMenuEvento {
-	MAIS10L, MAIS1L, MENOS1L, MENOS10L,
-	MAIS10C, MAIS1C, MENOS1C, MENOS10C,
-	MAIS10M, MAIS1M, MENOS1M, MENOS10M,
-	REINICIO
-}
